@@ -36,7 +36,7 @@ Java Development Kit (JDK) installed on your machine.
 Running the Application
 
 Clone the repository:
-git clone https://github.com/Vedant6800/securebankingAppWithTextFile/
+git clone https://github.com/Vedant6800/securebankingAppWithTextFile.git
 
 Navigate to the project directory:
 cd SecureBankingApp
